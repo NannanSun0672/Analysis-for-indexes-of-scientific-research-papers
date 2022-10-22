@@ -4,7 +4,7 @@ Statistical analysis of common indexes of SCI papers within different Impact Fac
 
 1. Data
 
-   Liver fibrosis downloads from pubmed
+   Liver fibrosis data was downloaded from pubmed
    
 2. Objective
 
