@@ -24,5 +24,5 @@ Statistical analysis of common indexes of SCI papers within different Impact Fac
    
       Calculating the frequency of test indicators contained in the article under different impact factor section
       
-  <img width="789" alt="image" src="https://user-images.githubusercontent.com/22112936/197343191-361566b3-5683-4d26-9978-47707cc64ba0.png">
+ 
 
